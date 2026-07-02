@@ -18,11 +18,12 @@
 
 ## About Me
 
-- 🎓 Final-year **Bachelor of Computer Science (Software Development)** student at UTeM.
-- 💻 Interested in web development, system design, testing, and building tools that reduce manual work.
-- 🌱 Currently improving my Laravel, backend, testing, and deployment skills.
-- 🔎 Looking for a Software Engineering / Web Development internship opportunity.
-- 🏃‍♀️ Outside of code, I am involved with KeReX UTeM and training for a 10 km trail run.
+- Final-year **Bachelor of Computer Science (Software Development)** student at UTeM.
+- Interested in web development, system design, testing, and building tools that reduce manual work.
+- Currently improving my Laravel, backend, testing, and deployment skills.
+- Looking for a Software Engineering / Web Development internship opportunity.
+- I am also interested in e-commerce digital enhancement, particularly improving online customer journeys, business workflows, and digital experiences through practical web solutions.
+- Outside of Codesss, I am proficient in bouldering and enjoy trail running. I previously served as Vice President of UTeM’s Extreme Sports Club, hold both the Pink Key and Blue Key at Camp5, and have completed the Camp5 BWC certification.
 
 ---
 
