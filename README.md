@@ -69,6 +69,10 @@ A role-based equipment rental management system built for KeReX UTeM.
   </a>
 </p>
 
+<a href="https://github.com/AinaSofeaa/KeReXTrack" target="_blank">
+  <img src="https://img.shields.io/badge/View%20KeReXTrack-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View KeReXTrack on GitHub" />
+</a>
+
 <sub>Small side quest: I planned, recorded, and edited this demo in roughly five hours. Fast, scrappy, and still enough to show the system flow properly.</sub>
 
 ---
