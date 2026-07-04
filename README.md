@@ -53,6 +53,9 @@
 
 A role-based equipment rental management system built for KeReX UTeM.
 
+**Individual Final Year Project**  
+Completed across two semesters, **FYP 1 and FYP 2**, covering project planning, documentation, system development, functional testing, user acceptance testing, and refinement.
+
 **Key areas I worked on:**
 
 - Rental booking, approval, pickup, return, and tracking workflows
